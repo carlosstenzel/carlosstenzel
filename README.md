@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosstenzel/)](https://www.linkedin.com/in/carlosstenzel/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosstenzel@hotmail.com)](mailto:carlosstenzel@hotmail.com)
 
-Aquariano, muito criativo e apaixonado pela tecnologia. Aos 16 anos descobri a programação com um projeto de criação de um website, logo aprendi como criar pagina Web com HTML e CSS, após isto como adicionar efeitos com JS e Jquery, utilizar o php e refatorar e dividir em componentes o código.
+Aquariano, muito criativo, apaixonado e apaixonado pela tecnologia. Aos 16 anos descobri a programação com um projeto de criação de um website, logo aprendi como criar pagina Web com HTML e CSS, após isto como adicionar efeitos com JS e Jquery, utilizar o php e refatorar e dividir em componentes o código.
 
 Após a descoberta e o aprendizado de como criar um Website e descobrir como hospedar em um servidor, a partir deste ponto corri atras para descobrir como funcionava, aprendi lógica utilizando C, PASCAL, JAVA, C++ entre outras.
 
