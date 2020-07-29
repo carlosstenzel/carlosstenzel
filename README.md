@@ -5,7 +5,7 @@
 
 Aquariano, muito criativo, apaixonado e apaixonado pela tecnologia. Aos 16 anos descobri a programação com um projeto de criação de um website, logo aprendi como criar pagina Web com HTML e CSS, após isto como adicionar efeitos com JS e Jquery, utilizar o php e refatorar e dividir em componentes o código.
 
-Após a descoberta e o aprendizado de como criar um Website e descobrir como hospedar em um servidor, a partir deste ponto corri atras para descobrir como funcionava, aprendi lógica utilizando C, PASCAL, JAVA, C++ entre outras.
+Após a descoberta e o aprendizado de como criar um Website e descobrir como hospedar em um servidor, a partir deste ponto corri atrás para descobrir como funcionava, aprendi lógica utilizando C, PASCAL, JAVA, C++ entre outras.
 
 Sempre busquei conhecimento e novos desafios sem medo do desconhecido.
 
