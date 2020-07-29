@@ -1,9 +1,19 @@
-# :man_technologist: Carlos Alberto Barbosa Stenzel 👋
+# :man_technologist: Carlos A. B. Stenzel 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosstenzel/)](https://www.linkedin.com/in/carlosstenzel/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosstenzel@hotmail.com)](mailto:carlosstenzel@hotmail.com)
 
-    Hey, my name is Carlos Stenzel and I am a Fullstack Developer! 
+Aquariano, muito criativo e apaixonado pela tecnologia. Aos 16 anos descobri a programação com um projeto de criação de um website, logo aprendi como criar pagina Web com HTML e CSS, após isto como adicionar efeitos com JS e Jquery, utilizar o php e refatorar e dividir em componentes o código.
+
+Após a descoberta e o aprendizado de como criar um Website e descobrir como hospedar em um servidor, a partir deste ponto corri atras para descobrir como funcionava, aprendi lógica utilizando C, PASCAL, JAVA, C++ entre outras.
+
+Sempre busquei conhecimento e novos desafios sem medo do desconhecido.
+
+Em 2012 inicie minha Faculdade de Bacharelado em Sistemas de Informação onde já sabia muito sobre PHP e WordPress, neste meio tempo, fiz vários freelancer com desenvolvimento web, trabalhando com Responsive web design (RWD), Web Performance, e WordPress. 
+
+Ja trabalhei com Mainframe, Cobol, DB2, CISC, Linux, diversos banco de dados, criação de WebApps (PWAs) no antigo ecossistema Firefox OS e com o IntelXDK, manutenção de servidor web.
+
+Atualmente tenho atuado com ReactJS, React Native, NodeJS e todo ecossistema em torno dessas tecnologias.
 
 ## Knowledge
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
