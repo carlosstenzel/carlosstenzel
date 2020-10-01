@@ -13,7 +13,9 @@ Em 2012 inicie minha Faculdade de Bacharelado em Sistemas de Informação onde j
 
 Ja trabalhei com Mainframe, Cobol, DB2, CISC, Linux, diversos banco de dados, criação de WebApps (PWAs) no antigo ecossistema Firefox OS e com o IntelXDK, manutenção de servidor web.
 
-Atualmente tenho atuado com ReactJS, React Native, NodeJS e todo ecossistema em torno dessas tecnologias.
+Em 2015 comecei a trabalhar no Sicoob Credicanoinhas, e estou até hoje, onde cuido da parte de tesouraria de um PA (Ponto de Atendimento), e também ajudo nas demais áreas, como cobrança e suporte.  
+
+No meu tempo livre tenho atuado com ReactJS, React Native, NodeJS e todo ecossistema em torno dessas tecnologias desenvolvendo projetos pessoas e freelancer.
 
 ## Knowledge
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
