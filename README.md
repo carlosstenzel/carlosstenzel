@@ -1,21 +1,19 @@
-# :man_technologist: Carlos A. B. Stenzel 👋
+# :man_technologist: Carlos Alberto Barbosa Stenzel 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosstenzel/)](https://www.linkedin.com/in/carlosstenzel/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosstenzel@hotmail.com)](mailto:carlosstenzel@hotmail.com)
 
-Apaixonado por tecnologia, aos 16 anos descobri a programação com um projeto de criação de um website, logo aprendi como criar pagina Web com HTML e CSS, após isto como adicionar efeitos com JS e Jquery, utilizar o php e refatorar e dividir em componentes o código.
+Apaixonado por **tecnologia**, aos 16 anos descobri a programação com um projeto de criação de um **website** com um amigo, aprendi como criar pagina Web estático, adicionar efeitos com **JS**, e a utilizar o **PHP** com banco de dados, e a trabalhar com como hospedagem. A partir deste ponto corri atrás para descobrir como funcionava as coisas, aprendi o básico utilizando C, PASCAL, JAVA, C++ entre outras.
 
-Após a descoberta e o aprendizado de como criar um Website e descobrir como hospedar em um servidor, a partir deste ponto corri atrás para descobrir como funcionava, aprendi lógica utilizando C, PASCAL, JAVA, C++ entre outras.
+> "Sempre busquei conhecimento e novos desafios sem medo do desconhecido."
 
-Sempre busquei conhecimento e novos desafios sem medo do desconhecido.
+Em 2012 inicie a Faculdade de **Bacharelado em Sistemas de Informação**  onde já sabia muito sobre **PHP** e **WordPress**, neste meio tempo, fiz vários freelancer com desenvolvimento web, trabalhando com **Responsive web design** (RWD), **Web Performance**, e WordPress. 
 
-Em 2012 inicie minha Faculdade de Bacharelado em Sistemas de Informação onde já sabia muito sobre PHP e WordPress, neste meio tempo, fiz vários freelancer com desenvolvimento web, trabalhando com Responsive web design (RWD), Web Performance, e WordPress. 
+Estudei **Mainframe**, **Cobol**, **DB2**, **CISC**, **Linux** e diversos banco de dados. Desenvolvi WebApps (PWAs) no antigo ecossistema **Firefox OS** e com o **IntelXDK**.
+  
+Em 2015 comecei a trabalhar no Sicoob Credicanoinhas, e estou até hoje, onde cuido da parte de tesouraria de um PA (Ponto de Atendimento).
 
-Ja trabalhei com Mainframe, Cobol, DB2, CISC, Linux, diversos banco de dados, criação de WebApps (PWAs) no antigo ecossistema Firefox OS e com o IntelXDK, manutenção de servidor web.
-
-Em 2015 comecei a trabalhar no Sicoob Credicanoinhas, e estou até hoje, onde cuido da parte de tesouraria de um PA (Ponto de Atendimento), e também ajudo nas demais áreas, como cobrança e suporte.  
-
-No meu tempo livre tenho atuado com ReactJS, React Native, NodeJS e todo ecossistema em torno dessas tecnologias desenvolvendo projetos pessoas e freelancer.
+No meu tempo livre continuo atuado com ReactJS, React Native, NodeJS e todo ecossistema em torno dessas tecnologias desenvolvendo projetos pessoas e freelancer.
 
 ## Knowledge
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
