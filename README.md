@@ -13,7 +13,7 @@ Estudei **Mainframe**, **Cobol**, **DB2**, **CISC**, **Linux** e diversos banco 
   
 Em 2015 comecei a trabalhar no Sicoob Credicanoinhas, e estou até hoje, onde cuido da parte de tesouraria de um PA (Ponto de Atendimento).
 
-No meu tempo livre continuo atuado com ReactJS, React Native, NodeJS e todo ecossistema em torno dessas tecnologias desenvolvendo projetos pessoas e freelancer.
+No meu tempo livre continuo atuado com ReactJS, React Native, NodeJS e todo ecossistema em torno dessas tecnologias desenvolvendo projetos pessoais e freelancer.
 
 ## Knowledge
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
