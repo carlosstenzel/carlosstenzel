@@ -10,10 +10,12 @@ Apaixonado por **tecnologia**, aos 16 anos descobri a programação com um proje
 Em 2012 inicie a Faculdade de **Bacharelado em Sistemas de Informação**  onde já sabia muito sobre **PHP** e **WordPress**, neste meio tempo, fiz vários freelancer com desenvolvimento web, trabalhando com **Responsive web design** (RWD), **Web Performance**, e WordPress. 
 
 Estudei **Mainframe**, **Cobol**, **DB2**, **CISC**, **Linux** e diversos banco de dados. Desenvolvi WebApps (PWAs) no antigo ecossistema **Firefox OS** e com o **IntelXDK**.
-  
-Em 2015 comecei a trabalhar no Sicoob Credicanoinhas, e estou até hoje, onde cuido da parte de tesouraria de um PA (Ponto de Atendimento).
 
-No meu tempo livre continuo atuado com ReactJS, React Native, NodeJS e todo ecossistema em torno dessas tecnologias desenvolvendo projetos pessoais e freelancer.
+No meu tempo livre atuei com ReactJS, React Native, NodeJS e todo ecossistema em torno dessas tecnologias desenvolvendo projetos pessoais e freelancer.
+
+Em 2021 me tornei parte da equipe da TOPi, trabalhado atualmente no ambiente SalesForce, com Apex, LWC e demais tecnologias em torno.
+
+#BoraCodar
 
 ## Knowledge
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
