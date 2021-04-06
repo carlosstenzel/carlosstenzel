@@ -17,8 +17,9 @@ Em 2021 me tornei parte da equipe da TOPi, trabalhado atualmente no ambiente Sal
 
 #BoraCodar
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=carlosstenzel&theme=dark' />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=carlosstenzel&theme=dark&layout=compact' />
 <img src='https://github-readme-stats.vercel.app/api?username=carlosstenzel&theme=dark&show_icons=true' />
+
 
 ## Knowledge
 
