@@ -1,4 +1,4 @@
-# :man_technologist: Carlos Alberto Barbosa Stenzel 👋
+# :man_technologist: Carlos Stenzel 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosstenzel/)](https://www.linkedin.com/in/carlosstenzel/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosstenzel@hotmail.com)](mailto:carlosstenzel@hotmail.com)
