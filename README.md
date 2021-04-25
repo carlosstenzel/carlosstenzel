@@ -20,10 +20,10 @@ Em 2021 me tornei parte da equipe da TOPi, trabalhado atualmente no ambiente Sal
 ## Knowledge
 
 <div>
-  <div style="float:left; width: 40%">
+  <p style="float: left; width: 40%; margin-right: 5%;">
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=carlosstenzel&theme=dark&layout=compact' />
-  </div>
- <div style="float:right; width: 50%">
+  </p>
+ <p style="float:right; width: 50%">
     <img src='https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript' />
     <img src='https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white' />
     <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' />
@@ -33,7 +33,7 @@ Em 2021 me tornei parte da equipe da TOPi, trabalhado atualmente no ambiente Sal
     <img src='https://img.shields.io/badge/-React-black?style=for-the-badge&logo=REACT&logoColor=white' />
     <img src='https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.JS&logoColor=white' />
   
-  </div>
+  </p>
   
  </div>
  
