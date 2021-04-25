@@ -17,29 +17,24 @@ Em 2021 me tornei parte da equipe da TOPi, trabalhado atualmente no ambiente Sal
 
 #BoraCodar
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=carlosstenzel&theme=dark&layout=compact' />
-
 ## Knowledge
 
-<p>
-  <img src='https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript' />
-  <img src='https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=php' />
-  <img src='https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white' />
-  <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' />
-  <img src='https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white' />
- </p>
+<div>
+  <div style="float:left; width: 40%">
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=carlosstenzel&theme=dark&layout=compact' />
+  </div>
+ <div style="float:right; width: 50%">
+    <img src='https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript' />
+    <img src='https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white' />
+    <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' />
+    <img src='https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white' />
+    <img src='https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white' />
+    <img src='https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white' />
+    <img src='https://img.shields.io/badge/-React-black?style=for-the-badge&logo=REACT&logoColor=white' />
+    <img src='https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.JS&logoColor=white' />
+  
+  </div>
+  
+ </div>
  
- 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
-
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
-[![Firebase](https://img.shields.io/badge/-Firebase-FCA121?style=flat-square&logo=firebase&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
-
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
