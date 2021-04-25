@@ -1,5 +1,3 @@
-# :man_technologist: Carlos Stenzel 👋
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosstenzel/)](https://www.linkedin.com/in/carlosstenzel/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosstenzel@hotmail.com)](mailto:carlosstenzel@hotmail.com)
 
@@ -19,11 +17,7 @@ Em 2021 me tornei parte da equipe da TOPi, trabalhado atualmente no ambiente Sal
 
 ## Knowledge
 
-<div>
-  <p style="float: left; width: 40%; margin-right: 5%;">
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=carlosstenzel&theme=dark&layout=compact' />
-  </p>
- <p style="float:right; width: 50%">
+<p align="center">
     <img src='https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript' />
     <img src='https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white' />
     <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' />
@@ -32,9 +26,8 @@ Em 2021 me tornei parte da equipe da TOPi, trabalhado atualmente no ambiente Sal
     <img src='https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white' />
     <img src='https://img.shields.io/badge/-React-black?style=for-the-badge&logo=REACT&logoColor=white' />
     <img src='https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.JS&logoColor=white' />
-  
-  </p>
-  
- </div>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=carlosstenzel&theme=dark&layout=compact' />
+</p>
+
  
 
