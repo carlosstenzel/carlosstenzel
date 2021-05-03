@@ -1,5 +1,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosstenzel/)](https://www.linkedin.com/in/carlosstenzel/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosstenzel@hotmail.com)](mailto:carlosstenzel@hotmail.com)
 
 Apaixonado por **tecnologia**, aos 16 anos descobri a programação com um projeto de criação de um **website** com um amigo, aprendi como criar pagina Web estático, adicionar efeitos com **JS**, e a utilizar o **PHP** com banco de dados, e a trabalhar com como hospedagem. A partir deste ponto corri atrás para descobrir como funcionava as coisas, aprendi o básico utilizando C, PASCAL, JAVA, C++ entre outras.
 
