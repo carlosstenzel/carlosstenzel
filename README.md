@@ -14,7 +14,8 @@ Em 2021 me tornei parte da equipe da TOPi, trabalhado atualmente no ambiente Sal
 
 #BoraCodar
 
-<img src='ranger-4ff0ee9f9279c163c5fca383a6fdc3b1a20fb9a22049483337e06e3a20b7a42d.png![image](https://user-images.githubusercontent.com/3890516/128610119-f26c7ad4-7443-4e34-85be-a4e53b390152.png)
-' />
+<img src='./ranger.png' height='80px'>
+<img src='./apex.png' height='80px'>
+<img src='./lwc.png' height='80px'>
  
 
