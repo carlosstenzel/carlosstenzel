@@ -14,19 +14,7 @@ Em 2021 me tornei parte da equipe da TOPi, trabalhado atualmente no ambiente Sal
 
 #BoraCodar
 
-## Knowledge
-
-<p align="center">
-    <img src='https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript' />
-    <img src='https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white' />
-    <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' />
-    <img src='https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white' />
-    <img src='https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white' />
-    <img src='https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white' />
-    <img src='https://img.shields.io/badge/-React-black?style=for-the-badge&logo=REACT&logoColor=white' />
-    <img src='https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.JS&logoColor=white' />
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=carlosstenzel&theme=dark&layout=compact' />
-</p>
-
+<img src='ranger-4ff0ee9f9279c163c5fca383a6fdc3b1a20fb9a22049483337e06e3a20b7a42d.png![image](https://user-images.githubusercontent.com/3890516/128610119-f26c7ad4-7443-4e34-85be-a4e53b390152.png)
+' />
  
 
