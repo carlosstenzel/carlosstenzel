@@ -10,7 +10,7 @@ Estudei **Mainframe**, **Cobol**, **DB2**, **CISC**, **Linux** e diversos banco 
 
 No meu tempo livre atuei com ReactJS, React Native, NodeJS e todo ecossistema em torno dessas tecnologias desenvolvendo projetos pessoais e freelancer.
 
-Em 2021 me tornei parte da equipe da TOPi, trabalhado atualmente no ambiente SalesForce, com Apex, LWC e demais tecnologias em torno.
+Em 2021 comecei a trabalhar com SalesForce, atuando com Apex, LWC, Aura, Visual Force, Flows e demais tecnologias em torno.
 
 #BoraCodar
 
@@ -18,5 +18,7 @@ Em 2021 me tornei parte da equipe da TOPi, trabalhado atualmente no ambiente Sal
     <img src='./ranger.png' height='80px'>
     <img src='./apex.png' height='80px'>
     <img src='./lwc.png' height='80px'>
+    <img src='./process.png' height='80px'>
+    <img src='./data-integration.png' height='80px'>
 <p>
 
