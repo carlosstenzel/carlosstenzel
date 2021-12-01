@@ -20,5 +20,6 @@ Em 2021 comecei a trabalhar com SalesForce, atuando com Apex, LWC, Aura, Visual 
     <img src='./lwc.png' height='80px'>
     <img src='./process.png' height='80px'>
     <img src='./data-integration.png' height='80px'>
+    <img src='./apex.av.png' height='80px'>
 <p>
 
