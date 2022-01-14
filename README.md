@@ -4,7 +4,7 @@ Apaixonado por **tecnologia**, aos 16 anos descobri a programação com um proje
 
 > "Sempre busquei conhecimento e novos desafios sem medo do desconhecido."
 
-Em 2012 inicie a Faculdade de **Bacharelado em Sistemas de Informação**  onde já sabia muito sobre **PHP** e **WordPress**, neste meio tempo, fiz vários freelancer com desenvolvimento web, trabalhando com **Responsive web design** (RWD), **Web Performance**, e WordPress. 
+Em 2012 inicie a Faculdade de **Bacharelado em Sistemas de Informação** onde já sabia muito sobre **PHP** e **WordPress**, neste meio tempo, fiz vários freelancer com desenvolvimento web, trabalhando com **Responsive web design** (RWD), **Web Performance**, e WordPress.
 
 Estudei **Mainframe**, **Cobol**, **DB2**, **CISC**, **Linux** e diversos banco de dados. Desenvolvi WebApps (PWAs) no antigo ecossistema **Firefox OS** e com o **IntelXDK**.
 
@@ -21,5 +21,5 @@ Em 2021 comecei a trabalhar com SalesForce, atuando com Apex, LWC, Aura, Visual 
     <img src='./process.png' height='80px'>
     <img src='./data-integration.png' height='80px'>
     <img src='./apex-av.png' height='80px'>
+    <img src='./security.png' height='80px'>
 <p>
-
