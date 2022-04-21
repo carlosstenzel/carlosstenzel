@@ -8,9 +8,9 @@ Em 2012 inicie a Faculdade de **Bacharelado em Sistemas de Informação** onde j
 
 Estudei **Mainframe**, **Cobol**, **DB2**, **CISC**, **Linux** e diversos banco de dados. Desenvolvi WebApps (PWAs) no antigo ecossistema **Firefox OS** e com o **IntelXDK**.
 
-No meu tempo livre atuei com ReactJS, React Native, NodeJS e todo ecossistema em torno dessas tecnologias desenvolvendo projetos pessoais e freelancer.
+No meu tempo livre atuei com **ReactJS**, **React Native**, **NodeJS** e todo ecossistema em torno dessas tecnologias desenvolvendo projetos pessoais e freelancer.
 
-Em 2021 comecei a trabalhar com SalesForce, atuando com Apex, LWC, Aura, Visual Force, Flows e demais tecnologias em torno.
+Em 2021 comecei a trabalhar com SalesForce, atuando com **Apex**, **LWC**, **Aura**, **Visual Force**, **Flows** e demais tecnologias em torno.
 
 #BoraCodar
 
@@ -22,4 +22,5 @@ Em 2021 comecei a trabalhar com SalesForce, atuando com Apex, LWC, Aura, Visual 
     <img src='./data-integration.png' height='80px'>
     <img src='./apex-av.png' height='80px'>
     <img src='./security.png' height='80px'>
+    <img src='./lex.png' height='80px'>
 <p>
