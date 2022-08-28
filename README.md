@@ -10,4 +10,6 @@
     <img src='./security.png' height='80px'>
     <img src='./lex.png' height='80px'>
     <img src='./bas.webp' height='80px'>
+    <img src='./supersetadm.webp' height='80px'>
+    <img src='./supersetdev.webp' height='80px'>
 <p>
