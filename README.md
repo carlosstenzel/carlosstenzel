@@ -2,9 +2,9 @@
 
 <p>
     <img src='./triple-star-ranger.png' height='80px'>
-<p>
-<p>
     <img src='./cert-associate.png' height='80px'>
+<p>
+<p>
     <img src='./apex.png' height='80px'>
     <img src='./lwc.png' height='80px'>
     <img src='./process.png' height='80px'>
